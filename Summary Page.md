@@ -1,7 +1,7 @@
 # Regression-Model
 Regression Model Project Using Multiple Regression and Polynomial Regression
 
-This Project demnostrates the use of Linear Regression and Polynomial Regression model in making predictions about the chance of student admission into university based on multiple factors
+This Project demonstrates the use of Linear Regression and Polynomial Regression model in making predictions about the chance of student admission into university based on multiple factors
 
 # Introduction
 The journey towards university admission is a significant milestone for countless aspiring students, where the dream of securing a place in their desired institution hinges on a multitude of factors. In this narrative, we embark on a data-driven exploration, leveraging regression modelling techniques to unravel the complexities of admission predictions and identify the most effective approach.
